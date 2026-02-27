@@ -6,7 +6,7 @@ with st.sidebar:
     st.write("Adresse: Pikine")
 
 
-st.subheader("profil")
+subheader("profil")
 st.write("Etudiant en deuxième année en géomatique, je suis doté d'une capacité de collecter des données géographiques de les traiter et de réaliser des cartes")
 
 st.subheader("Projets académiques")
