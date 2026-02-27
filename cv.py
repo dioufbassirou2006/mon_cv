@@ -21,7 +21,7 @@ st.markdown("""
 """)
 
 st.subheader("Compétences")
-st.st.markdown("""
+st.markdown("""
 - Conception de base de données sur QUANTUM GIS, ARCGIS, Looping, et Post gres
 - Géoréférencement
 - Digitalisation
