@@ -10,7 +10,7 @@ st.subheader("profil")
 st.write("Etudiant en deuxième année en géomatique, je suis doté d'une capacité de collecter des données géographiques de les traiter et de réaliser des cartes")
 
 st.subheader("Projets académiques")
-st.markdown markdown ("""
+st.markdown("""
 - Collecte des lampadaires au tour du CEDT LE G15 par Mobile Topographer 
 - Collecte des points de commerce de la commune de Gueule Tapée-Fass-Colobane par Locus Map 
 - Collecte des ecoles de la commune de Grand Dakar par QField
