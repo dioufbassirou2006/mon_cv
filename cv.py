@@ -1,7 +1,7 @@
 import streamlit as st
 
 with st.sidebar:
-    st.image("diouf.jpeg")
+   
     st.write("FALLOU DIOUF")
     st.write("Email: dioufbassirou2006@gmail.com")
     st.write("Adresse: Pikine")
