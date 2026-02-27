@@ -35,15 +35,18 @@ st.markdown("""
 """)
 
 st.subheader("FORMATIONS")
-st.write("• 2024-2026:Technicien Supérieur en Geomatique au CEDT LE G15")
+st.markdown(""" 
+- 2024-2026:Technicien Supérieur en Geomatique au CEDT LE G15""")
 
 st.subheader("Diplômes")
-st.write("• 2026:BTS en Geomatique en cours")
-st.write("• 2023:Baccalauréat en série S2")
+st.markdown("""
+- 2026:BTS en Geomatique en cours
+- 2023:Baccalauréat en série S2""")
 
 st.subheader("Expériences")
-st.write("• Vice président d'une association communautaire")
-st.write("• Gérant d'un grand boutique de commerce")
+st.markdown("""
+- Vice président d'une association communautaire
+- Gérant d'un grand boutique de commerce""")
 
 
 
