@@ -21,16 +21,18 @@ st.markdown("""
 """)
 
 st.subheader("Compétences")
-st.write("• Conception de base de données sur QUANTUM GIS, ARCGIS, Looping, et Post gres")
-st.write("• Géoréférencement")
-st.write("• Digitalisation")
-st.write("• Capacité de collecte de données géographiques")
-st.write("• Capacité de faire des levées topographiques")
-st.write("• Traitement de données géographiques")
-st.write("• Conception  de Plans sur Autocad et Sketchup")
-st.write("• Capacité en création d'application web")
-st.write("• Capacité en bureautique")
-st.write("• Réalisation de carte")
+st.st.markdown("""
+- Conception de base de données sur QUANTUM GIS, ARCGIS, Looping, et Post gres
+- Géoréférencement
+- Digitalisation
+- Capacité de collecte de données géographiques
+- Capacité de faire des levées topographiques
+- Traitement de données géographiques
+- Conception  de Plans sur Autocad et Sketchup
+- Capacité en création d'application web
+- Capacité en bureautique
+- Réalisation de carte
+""")
 
 st.subheader("FORMATIONS")
 st.write("• 2024-2026:Technicien Supérieur en Geomatique au CEDT LE G15")
